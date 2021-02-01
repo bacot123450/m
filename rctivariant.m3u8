@@ -1,5 +1,5 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000,CODECS="avc1.42801e"
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1=7.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=65000,CODECS="mp4a.40.5,avc1.42801e"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=65000,CODECS="mp4a.40.5"
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-mp4a=2.m3u8
